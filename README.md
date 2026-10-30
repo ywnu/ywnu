@@ -18,11 +18,11 @@
 
 </div>
 
-### 🌷 Beyond the code
+### (｡•̀ᴗ-)✧ Beyond the code
 
-- 🧩 I enjoy solving problems and turning ideas into working prototypes.
-- ♿ I care about clarity, usability, and accessible experiences.
-- 🔎 I like understanding *why* a solution works, not just making it run.
+- (๑˃ᴗ˂)ﻭ I enjoy solving problems and turning ideas into working prototypes.
+- (｡•̀ᴗ-)✧ I care about clarity, usability, and accessible experiences.
+- (´｡• ᵕ •｡`) I like understanding *why* a solution works, not just making it run.
 
 <img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/toolbox-card.svg" width="100%" alt="Tech toolbox: Python, JavaScript, HTML, CSS, FastAPI, Git, GitHub and VS Code" />
 
@@ -32,9 +32,9 @@
 
 </div>
 
-### 🎀 Featured projects
+### (づ｡◕‿‿◕｡)づ Featured projects
 
-#### 🛡️ [SafeHeal Cloud](https://github.com/ywnu/SafeHeal-Cloud)
+#### (ง •̀_•́)ง [SafeHeal Cloud](https://github.com/ywnu/SafeHeal-Cloud)
 **Explainable AI · Cybersecurity · Static Analysis**
 
 A cyber-defense prototype that analyzes Dockerfile risks and security logs, proposes safer configurations, and performs independent static reviews.
@@ -43,7 +43,7 @@ A cyber-defense prototype that analyzes Dockerfile risks and security logs, prop
 
 ---
 
-#### 🌸 [Tabayyann](https://github.com/ywnu/Tabayyann)
+#### (˶ᵔ ᵕ ᵔ˶) [Tabayyann](https://github.com/ywnu/Tabayyann)
 **Arabic NLP · RAG · Evidence-grounded answers**
 
 An Arabic question-answering system that retrieves supporting evidence and provides source references.
@@ -52,7 +52,7 @@ An Arabic question-answering system that retrieves supporting evidence and provi
 
 ---
 
-#### ✏️ [Smart Spell Checker](https://github.com/ywnu/Spell-Checker)
+#### (｡•̀ᴗ-)✧ [Smart Spell Checker](https://github.com/ywnu/Spell-Checker)
 **Python · Trie · Data Structures**
 
 A desktop spell-checking app with word lookup and correction suggestions.

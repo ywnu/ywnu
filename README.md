@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/terminal-banner.svg" alt="Animated terminal banner: Deem Almanea — Computer Science, AI, and Cybersecurity" width="100%" />
+  <img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/terminal-banner.svg" alt="Animated terminal banner: Deem Almaneea — Computer Science, AI, and Cybersecurity" width="100%" />
 </div>
 
 <div align="center">

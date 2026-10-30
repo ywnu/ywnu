@@ -4,9 +4,7 @@
 
 ### ♡ Hi, I'm Deem! ♡
 
-**Computer Science Student · AI Explorer · Creative Developer**
-
-*Turning curious ideas into things that actually work.*
+*I build thoughtful software and explore how AI can solve real problems.*
 
 </div>
 
@@ -20,11 +18,11 @@
 
 </div>
 
-### 🌷 What I'm exploring
+### 🌷 Beyond the code
 
-- ✨ Building practical projects with AI
-- 🧠 Learning more about machine learning and cybersecurity
-- 💗 Making software useful, understandable, and accessible
+- 🧩 I enjoy solving problems and turning ideas into working prototypes.
+- ♿ I care about clarity, usability, and accessible experiences.
+- 🔎 I like understanding *why* a solution works, not just making it run.
 
 <img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/toolbox-card.svg" width="100%" alt="Tech toolbox: Python, JavaScript, HTML, CSS, FastAPI, Git, GitHub and VS Code" />
 
@@ -63,7 +61,7 @@ A desktop spell-checking app with word lookup and correction suggestions.
 
 <div align="center">
 
-### ♡ Find more of my work
+### ♡ More from my GitHub
 
 [![Repositories](https://img.shields.io/badge/My_GitHub_Repositories-e8c4f7?style=for-the-badge&logo=github&logoColor=54264f)](https://github.com/ywnu?tab=repositories)
 

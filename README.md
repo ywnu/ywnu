@@ -1,73 +1,72 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/terminal-banner.svg" alt="Deem Almaneea — pastel pink starry animated cat banner" width="100%" />
+<img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/terminal-banner.svg" width="100%" alt="Deem Almaneea pastel pink animated banner with a cat and stars" />
 
-### ♡ Hello, I'm Deem! ♡
+### ♡ Hi, I'm Deem! ♡
 
 **Computer Science Student · AI Explorer · Creative Developer**
 
-<img src="https://img.shields.io/badge/AI_%26_ML-ff9ad5?style=for-the-badge&labelColor=fce7f3&color=ff9ad5" alt="AI and Machine Learning" />
-<img src="https://img.shields.io/badge/Software_Development-c4a7ff?style=for-the-badge&labelColor=f3e8ff&color=c4a7ff" alt="Software Development" />
-<img src="https://img.shields.io/badge/Cybersecurity-f9a8d4?style=for-the-badge&labelColor=fce7f3&color=f9a8d4" alt="Cybersecurity" />
-
-*✦ Turning curious ideas into things that actually work ✦*
+*Turning curious ideas into things that actually work.*
 
 </div>
 
----
-
-### 🌸 About me
-
-```python
-deem = {
-    "name": "Deem Almaneea",
-    "education": "Computer Science @ Shaqra University",
-    "interests": ["AI", "Machine Learning", "Software Development",
-                  "Cybersecurity"],
-    "motto": "dream. code. create."
-}
-```
-
-### ✨ Currently exploring
-
-- ♡ Building practical projects with AI
-- ✦ Learning more about cybersecurity and software development
-- 🌷 Making technology useful, understandable, and accessible
-
-### 🎀 My tech toolbox
+<img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/about-card.svg" width="100%" alt="About Deem Almaneea: computer science student at Shaqra University interested in AI, coding and cybersecurity" />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,git,github,vscode&amp;perline=8" alt="Python, JavaScript, HTML, CSS, FastAPI, Git, GitHub, VS Code" />
+
+<img src="https://img.shields.io/badge/AI_%26_ML-ffb3db?style=flat-square&labelColor=fff0f9" alt="AI and Machine Learning" />
+<img src="https://img.shields.io/badge/Software_Development-d9bcff?style=flat-square&labelColor=f6eaff" alt="Software Development" />
+<img src="https://img.shields.io/badge/Cybersecurity-f5aed7?style=flat-square&labelColor=fff0f9" alt="Cybersecurity" />
+
 </div>
 
-### 💗 Featured projects
+### 🌷 What I'm exploring
+
+- ✨ Building practical projects with AI
+- 🧠 Learning more about machine learning and cybersecurity
+- 💗 Making software useful, understandable, and accessible
+
+<img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/toolbox-card.svg" width="100%" alt="Tech toolbox: Python, JavaScript, HTML, CSS, FastAPI, Git, GitHub and VS Code" />
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,git,github,vscode&amp;perline=8" alt="Technology icons" />
+
+</div>
+
+### 🎀 Featured projects
 
 #### 🛡️ [SafeHeal Cloud](https://github.com/ywnu/SafeHeal-Cloud)
-
-**Cybersecurity · Explainable AI · Static Analysis**
+**Explainable AI · Cybersecurity · Static Analysis**
 
 A cyber-defense prototype that analyzes Dockerfile risks and security logs, proposes safer configurations, and performs independent static reviews.
 
-#### 🌷 [Tabayyann](https://github.com/ywnu/Tabayyann)
+[![Explore SafeHeal](https://img.shields.io/badge/Explore_SafeHeal-ff9bd4?style=flat-square&logo=github&logoColor=54264f)](https://github.com/ywnu/SafeHeal-Cloud)
 
+---
+
+#### 🌸 [Tabayyann](https://github.com/ywnu/Tabayyann)
 **Arabic NLP · RAG · Evidence-grounded answers**
 
 An Arabic question-answering system that retrieves supporting evidence and provides source references.
 
-#### ✏️ [Smart Spell Checker](https://github.com/ywnu/Spell-Checker)
+[![Explore Tabayyann](https://img.shields.io/badge/Explore_Tabayyann-cab2f5?style=flat-square&logo=github&logoColor=54264f)](https://github.com/ywnu/Tabayyann)
 
+---
+
+#### ✏️ [Smart Spell Checker](https://github.com/ywnu/Spell-Checker)
 **Python · Trie · Data Structures**
 
 A desktop spell-checking app with word lookup and correction suggestions.
 
----
+[![Explore Spell Checker](https://img.shields.io/badge/Explore_Spell_Checker-f5b9da?style=flat-square&logo=github&logoColor=54264f)](https://github.com/ywnu/Spell-Checker)
 
 <div align="center">
 
-### ✦ Let's connect ✦
+### ♡ Find more of my work
 
-[![GitHub](https://img.shields.io/badge/Explore_my_GitHub-ff9ad5?style=for-the-badge&logo=github&logoColor=54264f)](https://github.com/ywnu?tab=repositories)
+[![Repositories](https://img.shields.io/badge/My_GitHub_Repositories-e8c4f7?style=for-the-badge&logo=github&logoColor=54264f)](https://github.com/ywnu?tab=repositories)
 
-**♡ Keep learning. Keep creating. Keep shining. ♡**
+<img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/footer-card.svg" width="100%" alt="Pastel moon and stars with the message Keep learning, keep creating, keep shining" />
 
 </div>

@@ -1,23 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="290" viewBox="0 0 900 290" role="img" aria-label="Deem developer terminal banner">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#141a30"/></linearGradient><linearGradient id="line"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="390" viewBox="0 0 1000 390" role="img" aria-label="Animated cyber terminal banner for Deem Almaneea">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090e1b"/><stop offset=".65" stop-color="#111831"/><stop offset="1" stop-color="#1b1237"/></linearGradient>
+<linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#35e0e6"/><stop offset=".52" stop-color="#8c8aff"/><stop offset="1" stop-color="#f472d0"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#243452" stroke-width=".65" opacity=".55"/></pattern>
+</defs>
 <style>
-.t{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
-.cursor{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
-.pulse{animation:pulse 3s ease-in-out infinite}@keyframes pulse{50%{opacity:.45}}
-.dash{stroke-dasharray:1100;stroke-dashoffset:1100;animation:draw 3s ease forwards}@keyframes draw{to{stroke-dashoffset:0}}
-@media(prefers-reduced-motion:reduce){.cursor,.pulse,.dash{animation:none;stroke-dashoffset:0}}
+.t{font-family:Consolas,'Liberation Mono',monospace}
+.blink{animation:blink 1.05s steps(1,end) infinite}
+.float{animation:float 4s ease-in-out infinite}
+.orbit{transform-origin:825px 202px;animation:spin 17s linear infinite}
+.orbit2{transform-origin:825px 202px;animation:spin 11s linear infinite reverse}
+.scan{animation:scan 5s linear infinite}
+.draw{stroke-dasharray:570;stroke-dashoffset:570;animation:draw 3s ease-out forwards}
+.twinkle{animation:blink 2.5s ease-in-out infinite alternate}
+@keyframes blink{50%{opacity:.15}}
+@keyframes float{50%{transform:translateY(-9px)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes scan{0%{transform:translateY(-90px);opacity:0}15%{opacity:.6}85%{opacity:.6}100%{transform:translateY(250px);opacity:0}}
+@keyframes draw{to{stroke-dashoffset:0}}
+@media(prefers-reduced-motion:reduce){.blink,.float,.orbit,.orbit2,.scan,.draw,.twinkle{animation:none;stroke-dashoffset:0}}
 </style>
-<rect width="900" height="290" rx="18" fill="url(#bg)"/>
-<rect x="1" y="1" width="898" height="288" rx="17" fill="none" stroke="#334155"/>
-<path d="M1 48H899" stroke="#334155"/>
-<circle cx="26" cy="24" r="6" fill="#fb7185"/><circle cx="48" cy="24" r="6" fill="#fbbf24"/><circle cx="70" cy="24" r="6" fill="#34d399"/>
-<text x="450" y="29" text-anchor="middle" fill="#94a3b8" font-size="15" class="t">deem@github: ~</text>
-<text x="38" y="89" fill="#34d399" font-size="18" class="t">$ whoami</text>
-<text x="38" y="139" fill="#f8fafc" font-size="42" font-weight="700" class="t">DEEM ALMANEA</text>
-<path d="M38 157H655" stroke="url(#line)" stroke-width="3" class="dash"/>
-<text x="38" y="192" fill="#93c5fd" font-size="19" class="t">Computer Science  /  AI  /  Cybersecurity</text>
-<text x="38" y="244" fill="#34d399" font-size="18" class="t">$ build --learn --repeat</text>
-<rect x="338" y="228" width="11" height="20" fill="#34d399" class="cursor"/>
-<g class="pulse" fill="none" stroke="#38bdf8" stroke-width="1.5" opacity=".6"><circle cx="781" cy="154" r="52"/><circle cx="781" cy="154" r="34"/><path d="M729 154H833M781 102V206"/></g>
-<text x="781" y="162" text-anchor="middle" fill="#e0f2fe" font-size="20" class="t">AI</text>
+<rect width="1000" height="390" rx="22" fill="url(#bg)"/>
+<rect width="1000" height="390" rx="22" fill="url(#grid)"/>
+<rect x="1.5" y="1.5" width="997" height="387" rx="20" stroke="#41516e" stroke-width="2" fill="none"/>
+<path d="M1 52H999" stroke="#354563"/>
+<circle cx="27" cy="27" r="7" fill="#fb7185"/><circle cx="52" cy="27" r="7" fill="#fbbf24"/><circle cx="77" cy="27" r="7" fill="#34d399"/>
+<text x="500" y="33" text-anchor="middle" fill="#a4b4d0" font-size="17" class="t">deem@github — ~/portfolio</text>
+<text x="44" y="103" fill="#45e5b8" font-size="19" class="t">$ whoami</text>
+<text x="42" y="163" fill="#f8fbff" font-size="46" font-weight="bold" class="t">DEEM ALMANEEA</text>
+<path d="M44 182H614" stroke="url(#neon)" stroke-width="4" class="draw"/>
+<text x="44" y="224" fill="#b2c6ff" font-size="20" class="t">Computer Science Student</text>
+<text x="44" y="260" fill="#69e6f4" font-size="19" class="t">AI  //  Software  //  Cybersecurity</text>
+<text x="44" y="320" fill="#45e5b8" font-size="19" class="t">$ building the future_</text>
+<rect x="316" y="301" width="12" height="23" fill="#45e5b8" class="blink"/>
+<g class="float">
+<circle cx="825" cy="202" r="98" fill="#142845" opacity=".75"/>
+<circle cx="825" cy="202" r="89" stroke="#30d9e7" stroke-width="1.5" fill="none" opacity=".65"/>
+<circle cx="825" cy="202" r="73" stroke="#9b87f5" stroke-width="1" stroke-dasharray="5 9" fill="none" class="orbit"/>
+<circle cx="825" cy="202" r="106" stroke="#a78bfa" stroke-width="1.5" stroke-dasharray="30 18 4 18" fill="none" class="orbit2" opacity=".8"/>
+<path d="M781 175L825 149L869 175V226L825 253L781 226Z" fill="#101d39" stroke="#56dff0" stroke-width="2.5"/>
+<path d="M781 175L825 202L869 175M825 202V253" stroke="#7e8df8" stroke-width="1.5" fill="none"/>
+<circle cx="810" cy="192" r="4" fill="#49f1d3"/><circle cx="839" cy="192" r="4" fill="#49f1d3"/>
+<path d="M810 217Q825 228 840 217" fill="none" stroke="#49f1d3" stroke-width="2"/>
+<circle cx="825" cy="97" r="5" fill="#f472d0" class="twinkle"/>
+<circle cx="720" cy="202" r="4" fill="#38bdf8" class="twinkle"/>
+<circle cx="929" cy="202" r="4" fill="#34d399" class="twinkle"/>
+</g>
+<rect x="694" y="72" width="267" height="1.5" fill="url(#neon)" opacity=".4" class="scan"/>
+<text x="825" y="340" fill="#8ca5cb" text-anchor="middle" font-size="15" class="t">[ creativity.exe is running ]</text>
+<text x="44" y="367" fill="#7386a6" font-size="14" class="t">github.com/ywnu</text>
 </svg>

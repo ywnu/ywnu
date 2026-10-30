@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="290" viewBox="0 0 900 290" role="img" aria-label="Deem developer terminal banner">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#141a30"/></linearGradient><linearGradient id="line"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<style>
+.t{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
+.cursor{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+.pulse{animation:pulse 3s ease-in-out infinite}@keyframes pulse{50%{opacity:.45}}
+.dash{stroke-dasharray:1100;stroke-dashoffset:1100;animation:draw 3s ease forwards}@keyframes draw{to{stroke-dashoffset:0}}
+@media(prefers-reduced-motion:reduce){.cursor,.pulse,.dash{animation:none;stroke-dashoffset:0}}
+</style>
+<rect width="900" height="290" rx="18" fill="url(#bg)"/>
+<rect x="1" y="1" width="898" height="288" rx="17" fill="none" stroke="#334155"/>
+<path d="M1 48H899" stroke="#334155"/>
+<circle cx="26" cy="24" r="6" fill="#fb7185"/><circle cx="48" cy="24" r="6" fill="#fbbf24"/><circle cx="70" cy="24" r="6" fill="#34d399"/>
+<text x="450" y="29" text-anchor="middle" fill="#94a3b8" font-size="15" class="t">deem@github: ~</text>
+<text x="38" y="89" fill="#34d399" font-size="18" class="t">$ whoami</text>
+<text x="38" y="139" fill="#f8fafc" font-size="42" font-weight="700" class="t">DEEM ALMANEA</text>
+<path d="M38 157H655" stroke="url(#line)" stroke-width="3" class="dash"/>
+<text x="38" y="192" fill="#93c5fd" font-size="19" class="t">Computer Science  /  AI  /  Cybersecurity</text>
+<text x="38" y="244" fill="#34d399" font-size="18" class="t">$ build --learn --repeat</text>
+<rect x="338" y="228" width="11" height="20" fill="#34d399" class="cursor"/>
+<g class="pulse" fill="none" stroke="#38bdf8" stroke-width="1.5" opacity=".6"><circle cx="781" cy="154" r="52"/><circle cx="781" cy="154" r="34"/><path d="M729 154H833M781 102V206"/></g>
+<text x="781" y="162" text-anchor="middle" fill="#e0f2fe" font-size="20" class="t">AI</text>
+</svg>

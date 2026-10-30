@@ -1,57 +1,66 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/terminal-banner.svg" alt="Animated terminal banner: Deem Almaneea — Computer Science, AI, and Cybersecurity" width="100%" />
-</div>
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/terminal-banner.svg" alt="Deem Almaneea — animated pink developer banner" width="100%" />
 
-### Hi, I'm Deem 👋
+### Hi, I'm Deem! ♡
 
-**Computer Science Student | AI & Software Development Enthusiast**
+**Computer Science Student · AI Explorer · Creative Developer**
 
-I enjoy building practical applications, exploring artificial intelligence, and turning ideas into working software.
+<img src="https://img.shields.io/badge/AI_%26_ML-ff80bf?style=for-the-badge" alt="AI and ML" />
+<img src="https://img.shields.io/badge/Software_Development-c084fc?style=for-the-badge" alt="Software Development" />
+<img src="https://img.shields.io/badge/Cybersecurity-f9a8d4?style=for-the-badge" alt="Cybersecurity" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-ywnu-181717?style=for-the-badge&logo=github)](https://github.com/ywnu)
+*Turning curious ideas into things that actually work.*
 
 </div>
 
 ---
 
-### About me
+### ♡ A little about me
 
-- 🎓 Computer Science student at **Shaqra University**
-- 🤖 Interested in **Artificial Intelligence**, **Machine Learning**, and **Software Development**
-- 🔐 Exploring **Cybersecurity** and explainable AI
-- 🛠️ I like building useful, understandable, and accessible technology
+```python
+deem = {
+    "name": "Deem Almaneea",
+    "education": "Computer Science @ Shaqra University",
+    "interests": ["Artificial Intelligence", "Software Development",
+                  "Machine Learning", "Cybersecurity"],
+    "motto": "dream. code. create."
+}
+```
 
-### Tech stack
+### ✦ My toolbox
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,git,github,vscode&perline=8" alt="Python, JavaScript, HTML, CSS, FastAPI, Git, GitHub, and VS Code" />
-</p>
+<div align="center">
 
-### Featured projects
+<img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,git,github,vscode&amp;perline=8" alt="Python, JavaScript, HTML, CSS, FastAPI, Git, GitHub and VS Code" />
+
+</div>
+
+### 💗 Projects I'm proud of
 
 #### 🛡️ [SafeHeal Cloud](https://github.com/ywnu/SafeHeal-Cloud)
-An explainable AI cyber-defense prototype that analyzes Dockerfiles and security logs, proposes safer configurations, and performs independent static reviews.
+**Explainable AI × Cybersecurity**
 
-**Focus:** Cybersecurity · Explainable AI · Secure configuration
+A cyber-defense prototype that connects Dockerfile risks with security logs, proposes safer configurations, and checks changes with independent static reviews.
 
-#### 📚 [Tabayyann](https://github.com/ywnu/Tabayyann)
-An Arabic question-answering system powered by retrieval-augmented generation (RAG), with evidence-grounded answers and source references.
+#### 🌸 [Tabayyann](https://github.com/ywnu/Tabayyann)
+**Arabic NLP × Retrieval-Augmented Generation**
 
-**Focus:** RAG · Arabic NLP · FastAPI
+An Arabic question-answering system built around retrieved evidence, source references, and more reliable answers.
 
-#### ✍️ [Smart Spell Checker](https://github.com/ywnu/Spell-Checker)
-A Python desktop application for checking spelling and suggesting corrections using Trie-based word lookup.
+#### ✨ [Smart Spell Checker](https://github.com/ywnu/Spell-Checker)
+**Python × Data Structures**
 
-**Focus:** Python · Data Structures · Tkinter
-
-### GitHub activity
-
-Explore my [repositories](https://github.com/ywnu?tab=repositories) and [contributions](https://github.com/ywnu) on GitHub.
+A desktop spell checker using Trie-based lookup and suggestions to help identify and correct spelling mistakes.
 
 ---
 
 <div align="center">
-  <i>Learning, building, and improving — one project at a time.</i>
+
+### ✦ Find my work
+
+[![Explore repositories](https://img.shields.io/badge/Explore_my_repositories-ff80bf?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ywnu?tab=repositories)
+
+*♡ Keep learning. Keep creating. ♡*
+
 </div>

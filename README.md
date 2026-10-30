@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/terminal-banner.svg" width="100%" alt="Deem Almaneea pastel pink animated banner with a cat and stars" />
 
-### ♡ Hi, I'm Deem! ♡
+### ♡ Hi, I'm Deem!
 
 *I build thoughtful software and explore how AI can solve real problems.*
 
@@ -18,7 +18,7 @@
 
 </div>
 
-### Beyond the code
+### ✧ Beyond the code
 
 - I enjoy solving problems and turning ideas into working prototypes.
 - I care about clarity, usability, and accessible experiences.
@@ -32,7 +32,7 @@
 
 </div>
 
-### ♡ Featured projects
+### ☆ Featured projects
 
 #### [SafeHeal Cloud](https://github.com/ywnu/SafeHeal-Cloud)
 **Explainable AI · Cybersecurity · Static Analysis**

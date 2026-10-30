@@ -6,8 +6,8 @@
 <pattern id="dots" width="52" height="52" patternUnits="userSpaceOnUse"><circle cx="9" cy="14" r="1.4" fill="#fff" opacity=".8"/><circle cx="38" cy="37" r="1" fill="#d986ca" opacity=".5"/></pattern>
 </defs>
 <style>
-.t{font-family:Consolas,'Liberation Mono',monospace}.tw{animation:tw 2.6s ease-in-out infinite alternate;transform-origin:center}.tw2{animation:tw 3.8s ease-in-out infinite alternate-reverse}.float{animation:float 4.5s ease-in-out infinite}.blink{animation:blink 1s steps(1) infinite}
-@keyframes tw{to{opacity:.25;transform:scale(.83)}}@keyframes float{50%{transform:translateY(-7px)}}@keyframes blink{50%{opacity:0}}
+.t{font-family:Consolas,'Liberation Mono',monospace}.tw{animation:tw 7s ease-in-out infinite alternate;transform-origin:center}.tw2{animation:tw 9s ease-in-out infinite alternate-reverse}.float{animation:float 8s ease-in-out infinite}.blink{animation:blink 1.7s steps(1) infinite}
+@keyframes tw{to{opacity:.68;transform:scale(.96)}}@keyframes float{50%{transform:translateY(-3px)}}@keyframes blink{50%{opacity:0}}
 @media(prefers-reduced-motion:reduce){.tw,.tw2,.float,.blink{animation:none}}
 </style>
 <rect width="1000" height="440" rx="25" fill="url(#sky)"/>

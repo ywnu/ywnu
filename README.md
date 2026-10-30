@@ -1,6 +1,10 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/terminal-banner.svg" alt="Animated terminal banner: Deem Almanea — Computer Science, AI, and Cybersecurity" width="100%" />
+</div>
 
-# Hi, I'm Deem 👋
+<div align="center">
+
+### Hi, I'm Deem 👋
 
 **Computer Science Student | AI & Software Development Enthusiast**
 

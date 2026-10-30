@@ -27,18 +27,24 @@ I enjoy building practical applications, exploring artificial intelligence, and 
 
 ### Featured projects
 
-| Project | What it does |
-| --- | --- |
-| 🛡️ **[SafeHeal Cloud](https://github.com/ywnu/SafeHeal-Cloud)** | An explainable AI cyber-defense prototype that analyzes Dockerfiles and security logs, proposes safer configurations, and performs static reviews. |
-| 📚 **[Tabayyann](https://github.com/ywnu/Tabayyann)** | An Arabic question-answering system using retrieval-augmented generation (RAG) and evidence-grounded answers. |
-| ✍️ **[Smart Spell Checker](https://github.com/ywnu/Spell-Checker)** | A Python spell-checking application using Trie-based word lookup and spelling suggestions. |
+#### 🛡️ [SafeHeal Cloud](https://github.com/ywnu/SafeHeal-Cloud)
+An explainable AI cyber-defense prototype that analyzes Dockerfiles and security logs, proposes safer configurations, and performs independent static reviews.
+
+**Focus:** Cybersecurity · Explainable AI · Secure configuration
+
+#### 📚 [Tabayyann](https://github.com/ywnu/Tabayyann)
+An Arabic question-answering system powered by retrieval-augmented generation (RAG), with evidence-grounded answers and source references.
+
+**Focus:** RAG · Arabic NLP · FastAPI
+
+#### ✍️ [Smart Spell Checker](https://github.com/ywnu/Spell-Checker)
+A Python desktop application for checking spelling and suggesting corrections using Trie-based word lookup.
+
+**Focus:** Python · Data Structures · Tkinter
 
 ### GitHub activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ywnu&show_icons=true&hide_border=true&theme=transparent" alt="Deem's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ywnu&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages in public GitHub repositories" />
-</div>
+Explore my [repositories](https://github.com/ywnu?tab=repositories) and [contributions](https://github.com/ywnu) on GitHub.
 
 ---
 

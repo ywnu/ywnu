@@ -4,7 +4,7 @@
 
 <br/>
 
-### ✦ Hello, I'm Diyam!  (˶ᵔ ᵕ ᵔ˶) ✦
+### ✦ Hello, I'm Diyam ✦
 
 **Computer Science Student**  ·  **AI & Machine Learning Enthusiast**
 
@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-*I love turning curious ideas into useful software — one little experiment at a time.*
+*I love turning curious ideas into useful software — one thoughtful experiment at a time.*
 
 **⋆｡°✩  Code, curiosity & a little stardust  ✩°｡⋆**
 
@@ -22,7 +22,7 @@
 
 <img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/interests-2026.svg" width="100%" alt="Lavender interests card: AI, algorithms, accessibility, cybersecurity" />
 
-### ✧ About me  (｡•̀ᴗ-)✧
+### ✧ About me  ⋆˚✦
 
 - ✦ Studying **Computer Science** at **Shaqra University**
 - ⋆ Exploring **AI/ML**, algorithms, and practical software engineering
@@ -116,7 +116,7 @@ Word lookup and spelling correction suggestions.
 
 <br/><br/>
 
-### (づ｡◕‿‿◕｡)づ  Thanks for stopping by!
+### ✦ Thanks for stopping by ✦
 
 <img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/closing-2026.svg" width="100%" alt="Lavender starry footer" />
 

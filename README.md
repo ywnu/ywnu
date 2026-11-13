@@ -1,70 +1,43 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/terminal-banner.svg" width="100%" alt="Deem Almaneea pastel pink animated banner with a cat and stars" />
+<img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/profile-header-2026.svg" width="100%" alt="Diyam Almaneea — Computer Science and AI/ML" />
 
-### ♡ Hi, I'm Deem!
+### Hi, I'm Diyam 👋
 
-*I build thoughtful software and explore how AI can solve real problems.*
+Computer Science student exploring **AI & Machine Learning**, software development, and practical problem-solving.
 
-</div>
-
-<img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/about-card.svg" width="100%" alt="About Deem Almaneea: computer science student at Shaqra University interested in AI, coding and cybersecurity" />
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI_%26_ML-ffb3db?style=flat-square&labelColor=fff0f9" alt="AI and Machine Learning" />
-<img src="https://img.shields.io/badge/Software_Development-d9bcff?style=flat-square&labelColor=f6eaff" alt="Software Development" />
-<img src="https://img.shields.io/badge/Cybersecurity-f5aed7?style=flat-square&labelColor=fff0f9" alt="Cybersecurity" />
+*I enjoy turning ideas into useful, well-designed systems.*
 
 </div>
-
-### ✧ Beyond the code
-
-- I enjoy solving problems and turning ideas into working prototypes.
-- I care about clarity, usability, and accessible experiences.
-- I like understanding *why* a solution works, not just making it run.
-
-<img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/toolbox-card.svg" width="100%" alt="Tech toolbox: Python, JavaScript, HTML, CSS, FastAPI, Git, GitHub and VS Code" />
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,git,github,vscode&amp;perline=8" alt="Technology icons" />
-
-</div>
-
-### ☆ Featured projects
-
-#### [SafeHeal Cloud](https://github.com/ywnu/SafeHeal-Cloud)
-**Explainable AI · Cybersecurity · Static Analysis**
-
-A cyber-defense prototype that analyzes Dockerfile risks and security logs, proposes safer configurations, and performs independent static reviews.
-
-[![Explore SafeHeal](https://img.shields.io/badge/Explore_SafeHeal-ff9bd4?style=flat-square&logo=github&logoColor=54264f)](https://github.com/ywnu/SafeHeal-Cloud)
 
 ---
 
-#### [Tabayyann](https://github.com/ywnu/Tabayyann)
-**Arabic NLP · RAG · Evidence-grounded answers**
+### About me
 
-An Arabic question-answering system that retrieves supporting evidence and provides source references.
+- 🎓 Computer Science student at Shaqra University, Saudi Arabia
+- 🧠 Interested in AI/ML, algorithms, and building practical applications
+- ✨ I value clear code, thoughtful design, and accessible user experiences
 
-[![Explore Tabayyann](https://img.shields.io/badge/Explore_Tabayyann-cab2f5?style=flat-square&logo=github&logoColor=54264f)](https://github.com/ywnu/Tabayyann)
-
----
-
-#### [Smart Spell Checker](https://github.com/ywnu/Spell-Checker)
-**Python · Trie · Data Structures**
-
-A desktop spell-checking app with word lookup and correction suggestions.
-
-[![Explore Spell Checker](https://img.shields.io/badge/Explore_Spell_Checker-f5b9da?style=flat-square&logo=github&logoColor=54264f)](https://github.com/ywnu/Spell-Checker)
+### Tech toolbox
 
 <div align="center">
+<img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,git,github,vscode&perline=8" alt="Python, JavaScript, HTML, CSS, FastAPI, Git, GitHub, VS Code" />
+</div>
 
-### ♡ More from my GitHub
+### Selected projects
 
-[![Repositories](https://img.shields.io/badge/My_GitHub_Repositories-e8c4f7?style=for-the-badge&logo=github&logoColor=54264f)](https://github.com/ywnu?tab=repositories)
+| Project | Focus |
+| :--- | :--- |
+| [Tabayyann](https://github.com/ywnu/Tabayyann) | Arabic NLP · Retrieval-augmented question answering |
+| [SafeHeal Cloud](https://github.com/ywnu/SafeHeal-Cloud) | AI-assisted cybersecurity · Dockerfile analysis |
+| [Visual Question Answering](https://github.com/ywnu/Visual-Question-Answering) | Computer vision · Visual question answering |
+| [AI Maze Solver Visualizer](https://github.com/ywnu/AI-Maze-Solver-Visualizer) | Search algorithms · Visualization |
+| [Sorting Algorithms Analysis](https://github.com/ywnu/Sorting-Algorithms-Analysis) | Algorithms · Performance comparison |
 
-<img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/footer-card.svg" width="100%" alt="Pastel moon and stars with the message Keep learning, keep creating, keep shining" />
+### Beyond the code
 
+I like learning how things work, experimenting with new ideas, and creating projects that balance technical quality with usability.
+
+<div align="center">
+<sub>✦ Keep learning. Keep building. ✦</sub>
 </div>

@@ -1,98 +1,108 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/profile-header-2026.svg" width="100%" alt="Diyam Almaneea — Computer Science and AI/ML" />
+<img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/profile-header-2026.svg" width="100%" alt="Diyam Almaneea lavender and stars banner" />
 
 <br/>
 
-**Computer Science Student · AI & Machine Learning Enthusiast**
+### ✦ Hello, I'm Diyam!  (˶ᵔ ᵕ ᵔ˶) ✦
 
-<sub>Saudi Arabia · Shaqra University</sub>
+**Computer Science Student**  ·  **AI & Machine Learning Enthusiast**
+
+<sub>✧ Saudi Arabia  ·  Shaqra University ✧</sub>
 
 <br/><br/>
 
-I enjoy building useful software, exploring intelligent systems, and making complex ideas feel simple.
+*I love turning curious ideas into useful software — one little experiment at a time.*
+
+**⋆｡°✩  Code, curiosity & a little stardust  ✩°｡⋆**
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/interests-2026.svg" width="100%" alt="Interests: AI and ML, algorithms, accessible user experience, security" />
+<img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/interests-2026.svg" width="100%" alt="Lavender interests card: AI, algorithms, accessibility, cybersecurity" />
 
-### A little about me
+### ✧ About me  (｡•̀ᴗ-)✧
 
-- 🎓 Studying **Computer Science** at **Shaqra University**
-- 🧠 Exploring **AI/ML**, problem-solving, and software engineering
-- 🛠️ Learning through hands-on projects, experiments, and collaboration
-- ✨ Interested in building solutions that are both functional and easy to use
+- ✦ Studying **Computer Science** at **Shaqra University**
+- ⋆ Exploring **AI/ML**, algorithms, and practical software engineering
+- ✧ Enjoying hands-on projects, teamwork, and creative problem-solving
+- ✦ Interested in making technology useful, thoughtful, and accessible
 
-### My toolbox
+### ⋆ My little toolbox  ✧˖°
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,git,github,vscode&perline=8" alt="Python, JavaScript, HTML, CSS, FastAPI, Git, GitHub, and VS Code" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,git,github,vscode&perline=8" alt="Python, JavaScript, HTML, CSS, FastAPI, Git, GitHub and VS Code" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI_%26_ML-74617E?style=for-the-badge&labelColor=E7DCEB" alt="AI and ML" />
+<img src="https://img.shields.io/badge/Software_Development-8E7A98?style=for-the-badge&labelColor=E7DCEB" alt="Software Development" />
+<img src="https://img.shields.io/badge/Algorithms-5E5268?style=for-the-badge&labelColor=E7DCEB" alt="Algorithms" />
 
 </div>
 
-### Selected work
+### ✦ Featured creations  ⋆｡°✩
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[Tabayyann](https://github.com/ywnu/Tabayyann)**
+**✧ [Tabayyann](https://github.com/ywnu/Tabayyann)**
 
-Arabic NLP · Retrieval-augmented question answering
+<sub>Arabic NLP · Evidence-grounded QA</sub>
 
-An Arabic-language project focused on retrieving relevant information and grounding responses in evidence.
+Arabic-language question answering with retrieval and supporting evidence.
 
 </td>
 <td width="50%" valign="top">
 
-**[SafeHeal Cloud](https://github.com/ywnu/SafeHeal-Cloud)**
+**✧ [SafeHeal Cloud](https://github.com/ywnu/SafeHeal-Cloud)**
 
-AI-assisted cybersecurity · Static analysis
+<sub>AI-assisted Cybersecurity · Static Analysis</sub>
 
-Explores security risks in Docker configurations and attack logs, with proposed improvements.
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**[Visual Question Answering](https://github.com/ywnu/Visual-Question-Answering)**
-
-Computer Vision · Vision-Language Models
-
-A system that answers natural-language questions about images.
-
-</td>
-<td valign="top">
-
-**[AI Maze Solver Visualizer](https://github.com/ywnu/AI-Maze-Solver-Visualizer)**
-
-Search Algorithms · Visualization
-
-Exploring pathfinding through interactive visualizations.
+Exploring Dockerfile risks, attack logs, and safer configuration suggestions.
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-**[Sorting Algorithms Analysis](https://github.com/ywnu/Sorting-Algorithms-Analysis)**
+**⋆ [Visual Question Answering](https://github.com/ywnu/Visual-Question-Answering)**
 
-Algorithms · Performance Analysis
+<sub>Computer Vision · Vision-Language Models</sub>
 
-Comparing sorting methods and exploring their behavior.
+Answering natural-language questions about images.
 
 </td>
 <td valign="top">
 
-**[Spell Checker](https://github.com/ywnu/Spell-Checker)**
+**⋆ [AI Maze Solver Visualizer](https://github.com/ywnu/AI-Maze-Solver-Visualizer)**
 
-Python · Data Structures
+<sub>Search Algorithms · Visualization</sub>
 
-A spell-checking project focused on word lookup and correction suggestions.
+Exploring maze-solving and pathfinding algorithms visually.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**✦ [Sorting Algorithms Analysis](https://github.com/ywnu/Sorting-Algorithms-Analysis)**
+
+<sub>Algorithms · Performance Analysis</sub>
+
+Comparing sorting techniques and their behavior.
+
+</td>
+<td valign="top">
+
+**✦ [Spell Checker](https://github.com/ywnu/Spell-Checker)**
+
+<sub>Python · Data Structures</sub>
+
+Word lookup and spelling correction suggestions.
 
 </td>
 </tr>
@@ -100,10 +110,14 @@ A spell-checking project focused on word lookup and correction suggestions.
 
 <div align="center">
 
-[**Explore all repositories**](https://github.com/ywnu?tab=repositories)
+**✧ More projects, more experiments, more things to learn ✧**
 
-<br/>
+[![View all repositories](https://img.shields.io/badge/✦_EXPLORE_MY_REPOSITORIES-6C5B76?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ywnu?tab=repositories)
 
-<img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/closing-2026.svg" width="100%" alt="Keep learning, keep building, stay curious" />
+<br/><br/>
+
+### (づ｡◕‿‿◕｡)づ  Thanks for stopping by!
+
+<img src="https://raw.githubusercontent.com/ywnu/ywnu/main/assets/closing-2026.svg" width="100%" alt="Lavender starry footer" />
 
 </div>

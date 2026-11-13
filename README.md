@@ -45,68 +45,39 @@
 
 ### ✦ Featured creations  ⋆｡°✩
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**✧ [Tabayyann](https://github.com/ywnu/Tabayyann)**
-
-<sub>Arabic NLP · Evidence-grounded QA</sub>
-
+**✧ [Tabayyann](https://github.com/ywnu/Tabayyann)**  
+<sub>Arabic NLP · Evidence-grounded QA</sub>  
 Arabic-language question answering with retrieval and supporting evidence.
 
-</td>
-<td width="50%" valign="top">
+---
 
-**✧ [SafeHeal Cloud](https://github.com/ywnu/SafeHeal-Cloud)**
-
-<sub>AI-assisted Cybersecurity · Static Analysis</sub>
-
+**✦ [SafeHeal Cloud](https://github.com/ywnu/SafeHeal-Cloud)**  
+<sub>AI-assisted Cybersecurity · Static Analysis</sub>  
 Exploring Dockerfile risks, attack logs, and safer configuration suggestions.
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+---
 
-**⋆ [Visual Question Answering](https://github.com/ywnu/Visual-Question-Answering)**
-
-<sub>Computer Vision · Vision-Language Models</sub>
-
+**⋆ [Visual Question Answering](https://github.com/ywnu/Visual-Question-Answering)**  
+<sub>Computer Vision · Vision-Language Models</sub>  
 Answering natural-language questions about images.
 
-</td>
-<td valign="top">
+---
 
-**⋆ [AI Maze Solver Visualizer](https://github.com/ywnu/AI-Maze-Solver-Visualizer)**
-
-<sub>Search Algorithms · Visualization</sub>
-
+**✧ [AI Maze Solver Visualizer](https://github.com/ywnu/AI-Maze-Solver-Visualizer)**  
+<sub>Search Algorithms · Visualization</sub>  
 Exploring maze-solving and pathfinding algorithms visually.
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+---
 
-**✦ [Sorting Algorithms Analysis](https://github.com/ywnu/Sorting-Algorithms-Analysis)**
-
-<sub>Algorithms · Performance Analysis</sub>
-
+**✦ [Sorting Algorithms Analysis](https://github.com/ywnu/Sorting-Algorithms-Analysis)**  
+<sub>Algorithms · Performance Analysis</sub>  
 Comparing sorting techniques and their behavior.
 
-</td>
-<td valign="top">
+---
 
-**✦ [Spell Checker](https://github.com/ywnu/Spell-Checker)**
-
-<sub>Python · Data Structures</sub>
-
+**⋆ [Spell Checker](https://github.com/ywnu/Spell-Checker)**  
+<sub>Python · Data Structures</sub>  
 Word lookup and spelling correction suggestions.
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
